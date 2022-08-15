@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+ .letter{
+  display: inline;
+  background-color: rgb(139, 139, 237);
+  margin : 3px;
+  padding: 10px;
+
+ }
+
+ p{
+  margin-top: 40px;
+ }
+
+ .result{
+  margin-top: 10px;
+ }
+
+ .link{
+  margin-top: 20px;
+ }
